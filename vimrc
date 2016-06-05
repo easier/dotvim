@@ -27,7 +27,7 @@ Bundle "edsono/vim-matchit"
 Bundle "tpope/vim-surround"
 Bundle "scrooloose/nerdcommenter"
 Bundle "mhinz/vim-startify"
-Bundle "SirVer/ultisnips"
+"Bundle "SirVer/ultisnips"
 Bundle "honza/vim-snippets"
 
 "Bundle 'TabBar'
@@ -95,7 +95,7 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab "设置tab自动替换为空格
 "设置tab和空格的显示字符
-set listchars=eol:¬,tab:>-,trail:~,extends:>,precedes:<
+"set listchars=eol:¬,tab:>-,trail:~,extends:>,precedes:<
 
 "setup nerdtree 
 let NERDTreeWinPos = 'left'
